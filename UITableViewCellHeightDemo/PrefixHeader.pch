@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  UITableViewCellHeightDemo
+//
+//  Created by lisong on 2016/10/8.
+//  Copyright © 2016年 lisong. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "BaseViewController.h"
+
+#endif /* PrefixHeader_pch */
